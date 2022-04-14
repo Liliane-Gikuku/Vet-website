@@ -1,6 +1,6 @@
 body{
-    background-color: rgb(228, 247, 242);
-    width: 100%;
+    background-color: rgb(239, 252, 249);
+    
     
 }
 
@@ -222,7 +222,7 @@ button{
     
     
     .One{
-        background-color: rgb(228, 247, 242);
+        background-color: rgb(239, 252, 249);
         
     }
 
@@ -580,9 +580,12 @@ margin-left: 5%;
     font-size: 35px;
     margin-left: 6%; 
 }
+.Four{
+    background-color: rgb(239, 252, 249);
+}
 
 .vets{
-    border: solid red;
+    border: solid transparent;
     display:flex;
     
     
@@ -590,21 +593,132 @@ margin-left: 5%;
 .image1 {
     border: solid transparent;
     
-    width: 300px;
+    width: 280px;
 
 }
 .image2 {
     border: solid transparent;
     
-    width: 300px;
+    width: 280px;
 
 }
 .image3 {
     border: solid transparent;
     
-    width: 500px;
+    width: 280px;
 
 }
+.subscribe{
+    background-color:rgb(239, 252, 249);
+   
+}
+.sub{
+    border: solid transparent;
+    height:320px;
+    background-color:rgb(228, 247, 242);
+    margin-left: 6%;
+    margin-right: 6%;
+    border-radius: 0%;
+}
+
+.titley{
+    border: solid transparent;
+    width:30%;
+    margin-top:-20%;
+    margin-left:37%;
+    color:rgb(37, 38, 61);
+}
+
+.titley h1{
+    font-size: 37px;
+}
+
+.form-input{
+    margin-left:22%;
+    border: solid transparent;
+    height:70px;
+    width: 700px;
+    background-color: white;
+    
+
+}
+.form-input p{
+    margin-left: 3%;
+    font-size: 20px;
+    color: rgb(37, 38, 61);
+    font-weight: lighter;
+    margin-bottom: -1%;
+}
+.button{
+    border: solid rgb(51, 163, 163);
+    background-color: rgb(51, 163, 163);
+    width: 150px;
+    height: 50px;
+    margin-left: 76%;
+    margin-top: -5%;
+    border-radius: 5%;
+}
+.button h2{
+    color: white;
+    margin-left: 15%;
+    margin-top:8%;
+}
+
+.details{
+    display: flex;
+    border: solid transparent;
+    margin-top: 11%;
+}
+
+.location{
+    margin-left:6%;
+}
+.location h3{
+    color:rgb(50, 51, 71);
+    font-weight: bolder;
+}
+.location p{
+   color: rgb(46, 46, 63);
+}
+    
+.pro{
+    margin-left: 15%;
+}
+.pro h3{
+    color:rgb(50, 51, 71);
+    font-weight: bolder;
+}
+.pro p{
+   color: rgb(46, 46, 63);
+   
+}
+
+.pro2{
+    margin-left:17%;
+}
+.pro2 h3{
+    color:rgb(50, 51, 71);
+    font-weight: bolder;
+}
+.pro2 p{
+   color: rgb(46, 46, 63);
+}
+
+.pro3{
+    margin-left: 15%;
+}
+
+.pro3 h3{
+    color:rgb(50, 51, 71);
+    font-weight: bolder;
+}
+.pro3 p{
+   color: rgb(46, 46, 63);
+}
+
+    
+
+
 
 
 

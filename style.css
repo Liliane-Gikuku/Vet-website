@@ -2,6 +2,7 @@ body{
     background-color: rgb(239, 252, 249);
     font-family: 'Inter', sans-serif;
     font-weight: 500;
+    position: relative;
     
     
     
@@ -120,6 +121,7 @@ p{
     
 }
 .content2{
+    
     border: solid rgb(204, 228, 224);
     width: 25%;
     height: 10%;
@@ -537,16 +539,23 @@ margin-left: 5%;
 
 .boxx h3{
     color:rgb(37, 38, 61);
-    margin-left: 6%;
+    margin-left: 14%;
+    
     
 
 }
-
+.hp{
+    margin-top:25%;
+}
+.ht{
+    margin-top:25%;
+}
 .boxx p{
     font-size: 18px;
     color: rgb(99, 101, 131);
     font-weight: 400;
-    margin-left: 6%;
+    margin-left: 14%;
+    
     
 
 }
@@ -563,7 +572,7 @@ margin-left: 5%;
 }
 .boxy h3{
     color:rgb(37, 38, 61);
-    margin-left: 6%;
+    margin-left: 14%;
 
 }
 
@@ -571,7 +580,7 @@ margin-left: 5%;
     font-size: 18px;
     color: rgb(99, 101, 131);
     font-weight: 400;
-    margin-left: 6%;
+    margin-left: 14%;
     
 
 }
@@ -746,11 +755,11 @@ font-weight: bolder;
     margin-left:6%;
 }
 .location h3{
-    color:rgb(50, 51, 71);
+    color:rgb(37, 38, 61);
     font-weight: bolder;
 }
 .location p{
-   color: rgb(46, 46, 63);
+   color: rgba(61, 67, 88, 0.733); 
 }
     
 .pro{
@@ -778,6 +787,7 @@ font-weight: bolder;
 
 .pro3{
     margin-left: 15%;
+    
 }
 
 .pro3 h3{
@@ -787,7 +797,67 @@ font-weight: bolder;
 .pro3 p{
    color: rgba(61, 67, 88, 0.733); 
 }
+.stars{
+    margin-left: 13%;
+    margin-top: 10%;
+    color: orange;
+}
+.numbers{
+    margin-left: 18%;
+    margin-top: -6%;
+    
+}
+.numbers p{
+    color: rgb(99, 101, 131);
+}
 
+.stars2{
+    margin-left: 13%;
+    margin-top: 10%;
+    color: orange;
+}
+.numbers2{
+    margin-left: 18%;
+    margin-top: -6%;
+    
+}
+.numbers2 p{
+    color: rgb(99, 101, 131);
+}
+
+.logos{
+    display: flex;
+    margin-right: 90%;
+    
+}
+
+.fb{
+    background-color: white;
+    color:blue
+}
+
+.twitter{
+    background-color:white;
+    color: rgb(83, 190, 209);
+    margin-left: 20px;
+}
+.Google{
+    background-color: white;
+    color: red;
+    margin-left: 20px;
+}
+.LinkedIn{
+    color:rgb(27, 121, 228);
+    background-color: white;
+    padding-left:20px;
+
+    
+}
+
+.playIcon{
+color: rgb(21, 158, 158);
+background-color: white;
+}
     
 
 

@@ -1,5 +1,8 @@
 body{
     background-color: rgb(239, 252, 249);
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    
     
     
 }
@@ -183,27 +186,30 @@ button{
 /*section two*/
 
 .Two{
-    background-color: rgb(241, 249, 253);
+    border: solid transparent;
+    background-color: rgb(248, 255, 253);
     width: 100%;
     height: 100%;
+    margin-bottom: 5%;
 }
 
 .Wedo p{
     font-size: 18px;
-    color: rgba(116, 111, 111, 0.733);
-    font-weight: bold;
-    margin-left: 30%;
+    color: rgb(99, 101, 131);
+    font-weight: 400;
+    margin-left:22%;
     border: solid transparent;
     margin-bottom: 5px;
+    
    
     
 }
 .Wedo h2{
         
-    color: rgb(74, 76, 88);
+    color: rgb(59, 60, 78);
     font-weight: bolder;
     margin-left: 6%;
-    font-size: 30px;
+    font-size: 35px;
     
 
 }
@@ -222,6 +228,7 @@ button{
     
     
     .One{
+        border: solid transparent;
         background-color: rgb(239, 252, 249);
         
     }
@@ -253,7 +260,7 @@ button{
     }
 
     .box1 p{
-        color:rgba(61, 67, 88, 0.733);
+        color:rgb(99, 101, 131);
         margin-left: 5%;
 
     }
@@ -276,7 +283,7 @@ button{
     }
 
     .box2 p{
-        color:rgba(61, 67, 88, 0.733);
+        color:rgb(99, 101, 131);
         margin-left: 6%;
 
     }
@@ -298,7 +305,7 @@ button{
     }
 
     .box3 p{
-        color:rgba(61, 67, 88, 0.733);
+        color:rgb(99, 101, 131);
         margin-left: 5%;
 
     }
@@ -331,7 +338,7 @@ button{
     }
 
     .box4 p{
-        color:rgba(61, 67, 88, 0.733);
+        color:rgb(99, 101, 131);
         margin-left: 5%;
 
     }
@@ -354,7 +361,7 @@ button{
     }
 
     .box5 p{
-        color:rgba(61, 67, 88, 0.733);
+        color:rgb(99, 101, 131);
         margin-left: 6%;
 
     }
@@ -376,7 +383,7 @@ button{
     }
 
     .box6 p{
-        color:rgba(61, 67, 88, 0.733);
+        color:rgb(99, 101, 131);
         margin-left: 5%;
 
     }
@@ -404,8 +411,8 @@ button{
      }
 
      .text button{
-        width: 128px;
-        height: 40px;
+        width: 150px;
+    height: 50px;
         background-color: rgb(51, 163, 163);
         border-radius: 14%;
         border:solid rgb(51, 163, 163);
@@ -417,6 +424,7 @@ button{
          border: solid transparent;
          display: flex;
          margin-right: 6%;
+         margin-top: -7%;
          
      }
 .text{
@@ -426,12 +434,13 @@ button{
 
 }
 .text h1{
-    font-size: 50px;
-    color:rgb(53, 49, 63);
+    color: rgb(59, 60, 78);
+    font-weight: bolder;
+    font-size: 35px;
 }
 .text h4{
     font-size:20px;
-    color:rgb(128, 124, 138);
+    color:rgb(99, 101, 131);
 }
 .image{
     border: solid rgb(201, 230, 247);
@@ -444,7 +453,14 @@ button{
     
 
      .Three{
-         background-color:rgb(235, 252, 247);;
+         border: solid transparent;
+         background-color:rgb(248, 255, 253);
+     }
+
+     .Theer{
+         border: solid transparent;
+         
+         background-color:rgb(224, 250, 242);
      }
 
      
@@ -515,21 +531,23 @@ margin-left: 5%;
     border: solid transparent;
     width:50%;
     background-color: white;
-    height: 350px;
+    height: 400px;
 
 }
 
 .boxx h3{
     color:rgb(37, 38, 61);
     margin-left: 6%;
-    font-size: 25px;
+    
 
 }
 
 .boxx p{
-    color:rgba(61, 67, 88, 0.733);
+    font-size: 18px;
+    color: rgb(99, 101, 131);
+    font-weight: 400;
     margin-left: 6%;
-    font-size: 17px;
+    
 
 }
 
@@ -538,20 +556,23 @@ margin-left: 5%;
     width:50%;
     margin-left: 1%;
     background-color: white;
-    height: 350px;
+    height: 400px;
     margin-right:0%;
     
+    
 }
-.boxy h1{
+.boxy h3{
     color:rgb(37, 38, 61);
     margin-left: 6%;
 
 }
 
 .boxy p{
-    color:rgba(61, 67, 88, 0.733);
+    font-size: 18px;
+    color: rgb(99, 101, 131);
+    font-weight: 400;
     margin-left: 6%;
-    font-size: 17px;
+    
 
 }
      
@@ -562,15 +583,18 @@ margin-left: 5%;
 }
 
 .rowtitle h1{
-    color:rgb(37, 38, 61);
-    font-size: 40px;
+    color: rgb(59, 60, 78);
+    font-weight: bolder;
+    font-size: 35px;
     margin-left: 6%;
     margin-bottom: 5px;
 
 }
 .rowtitle h3{
-    color:rgba(61, 67, 88, 0.733);
-    margin-left: 20%;
+    font-size: 18px;
+    color: rgb(99, 101, 131);
+    font-weight: 400;
+    margin-left: 17%;
     border: solid transparent;
     margin-top: 43px;
     
@@ -578,36 +602,81 @@ margin-left: 5%;
 .title{
     color:rgb(37, 38, 61);
     font-size: 35px;
-    margin-left: 6%; 
+    margin-left: 4%; 
+}
+.title h1{
+    
+    color: rgb(59, 60, 78);
+    font-weight: bolder;
+    font-size: 35px;
+    margin-left:4%; 
+    padding-top: 4%;
+    padding-bottom: 2%;
+    
 }
 .Four{
+    border: solid transparent;
     background-color: rgb(239, 252, 249);
+    margin-top:-14%;
+    margin-bottom: 5%;
 }
 
 .vets{
     border: solid transparent;
     display:flex;
+    margin-bottom:10%;
+
     
     
 }
 .image1 {
     border: solid transparent;
+    background-color: rgb(241, 234, 236);
+    margin-left: 7%;
+    height: 300px;
     
-    width: 280px;
+}
 
+.image1 h3{
+color:rgb(37, 38, 61);
+font-weight: bolder;
+
+
+}
+.image1 h4{
+    color:rgba(61, 67, 88, 0.733);
 }
 .image2 {
     border: solid transparent;
+    background-color: rgb(220, 243, 240);
     
-    width: 280px;
-
+    margin-left: 7%;
+    margin-right: 1%;
+    height: 300px;
+}
+.image2 h3{
+    color:rgb(37, 38, 61);
+    font-weight: bolder;
+    
+}
+.image2 h4{
+    color:rgba(61, 67, 88, 0.733);   
 }
 .image3 {
     border: solid transparent;
-    
-    width: 280px;
+    background-color: rgb(250, 236, 240);
+    margin-left:6%;
+    height: 300px;
+    }
 
-}
+    .image3 h3{
+        color:rgb(37, 38, 61);
+        font-weight: bolder;
+        
+    }
+    .image3 h4{
+        color:rgba(61, 67, 88, 0.733);   
+    }
 .subscribe{
     background-color:rgb(239, 252, 249);
    
@@ -630,7 +699,10 @@ margin-left: 5%;
 }
 
 .titley h1{
-    font-size: 37px;
+    
+    color: rgb(59, 60, 78);
+    font-weight: bolder;
+    font-size: 35px;
 }
 
 .form-input{
@@ -685,11 +757,11 @@ margin-left: 5%;
     margin-left: 15%;
 }
 .pro h3{
-    color:rgb(50, 51, 71);
+    color:rgb(37, 38, 61);
     font-weight: bolder;
 }
 .pro p{
-   color: rgb(46, 46, 63);
+   color: rgba(61, 67, 88, 0.733); 
    
 }
 
@@ -697,11 +769,11 @@ margin-left: 5%;
     margin-left:17%;
 }
 .pro2 h3{
-    color:rgb(50, 51, 71);
+    color:rgb(37, 38, 61);
     font-weight: bolder;
 }
 .pro2 p{
-   color: rgb(46, 46, 63);
+   color: rgba(61, 67, 88, 0.733); 
 }
 
 .pro3{
@@ -709,11 +781,11 @@ margin-left: 5%;
 }
 
 .pro3 h3{
-    color:rgb(50, 51, 71);
+    color:rgb(37, 38, 61);
     font-weight: bolder;
 }
 .pro3 p{
-   color: rgb(46, 46, 63);
+   color: rgba(61, 67, 88, 0.733); 
 }
 
     

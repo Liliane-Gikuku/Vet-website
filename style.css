@@ -12,6 +12,7 @@ body{
 
 nav{
     text-align: right;
+    margin-top: 3%;
     
    
     
@@ -112,8 +113,10 @@ p{
     width: 30%;
     margin-left: 6%;
     padding-bottom: 0%;
+    margin-bottom: 10%;
 
 }
+
 
 .heading2 h5{
     color: orange;
@@ -136,17 +139,20 @@ p{
 
 
 .first{
-    margin: 0% -40% 0% 6%;
-   
+   /* margin: 0% -40% 0% 6%;
+   margin-left: 6%;
+   margin-bottom: 10%;*/
+   margin-right: 88%;
+  
 }
 .heading2 h1{
-    font-size: 40px;
-    color:rgb(68, 65, 65);
+    font-size: 37px;
+    color:rgb(59, 60, 78);
 }
 
-.heading2 h4{
+.heading2 p{
     font-size: 18px;
-    color: rgba(116, 111, 111, 0.733);
+    color: rgb(99, 101, 131);
 }
 
 .heading2 button{
@@ -159,8 +165,9 @@ p{
 button{
     color: white;
     font-size:15px;
+    
 }
-.triangle{
+/*.triangle{
     background-color:transparent;
     width:0px;
     height:0px;
@@ -172,21 +179,8 @@ button{
     
     
     margin-left: 20%;
-    }
+    }*/
     
-
-
-
-
-
-
-
-
-
-
-
-
-/*section two*/
 
 .Two{
     border: solid transparent;
@@ -258,7 +252,8 @@ button{
     .box1 h3{
         color:rgb(37, 38, 61);
         margin-left: 5%;
-        padding-top: 30%;
+        padding-top: 5%;
+        
 
     }
 
@@ -281,7 +276,7 @@ button{
     .box2 h3{
         color:rgb(37, 38, 61);
         margin-left: 5%;
-        padding-top:30%;
+        padding-top:5%;
 
     }
 
@@ -303,7 +298,7 @@ button{
     .box3 h3{
         color:rgb(37, 38, 61);
         margin-left: 5%;
-        padding-top:30%;
+        padding-top:5%;
 
     }
 
@@ -336,7 +331,7 @@ button{
     .box4 h3{
         color:rgb(37, 38, 61);
         margin-left: 5%;
-        padding-top: 30%;
+        padding-top: 5%;
 
     }
 
@@ -359,7 +354,7 @@ button{
     .box5 h3{
         color:rgb(37, 38, 61);
         margin-left: 5%;
-        padding-top:30%;
+        padding-top:5%;
 
     }
 
@@ -381,7 +376,7 @@ button{
     .box6 h3{
         color:rgb(37, 38, 61);
         margin-left: 5%;
-        padding-top:30%;
+        padding-top:5%;
 
     }
 
@@ -534,7 +529,7 @@ margin-left: 5%;
     border: solid transparent;
     width:50%;
     background-color: white;
-    height: 400px;
+    height: 460px;
 
 }
 
@@ -545,17 +540,23 @@ margin-left: 5%;
     
 
 }
-.hp{
+/*.hp{
     margin-top:25%;
-}
-.ht{
+    
+}*/
+
+
+
+
+/*.ht{
     margin-top:25%;
-}
+}*/
 .boxx p{
     font-size: 18px;
     color: rgb(99, 101, 131);
     font-weight: 400;
     margin-left: 14%;
+    margin-bottom: 30%;
     
     
 
@@ -566,7 +567,7 @@ margin-left: 5%;
     width:50%;
     margin-left: 1%;
     background-color: white;
-    height: 400px;
+    height: 460px;
     margin-right:0%;
     
     
@@ -582,6 +583,8 @@ margin-left: 5%;
     color: rgb(99, 101, 131);
     font-weight: 400;
     margin-left: 14%;
+    margin-bottom: 30%;
+    
     
 
 }
@@ -697,7 +700,7 @@ font-weight: bolder;
     background-color:rgb(228, 247, 242);
     margin-left: 6%;
     margin-right: 6%;
-    border-radius: 0%;
+    border-radius: 2%;
 }
 
 .titley{
@@ -721,6 +724,7 @@ font-weight: bolder;
     height:70px;
     width: 700px;
     background-color: white;
+    border-radius: 3%;
     
 
 }
@@ -857,8 +861,81 @@ font-weight: bolder;
 
 .playIcon{
 color: rgb(21, 158, 158);
-background-color: white;
+background-color: rgb(239, 252, 249);
+font-size: 40px;
+margin-left: 35%;
+margin-bottom: -12%;
 }
+.icon1{
+    font-size: 40px;
+    color: rgb(21, 158, 158);
+    margin-left: 9%;
+    margin-top: 14%;
+    
+}
+
+.icon2{
+    font-size: 40px;
+    color: rgb(21, 158, 158);
+    margin-left: 9%;
+    margin-top: 14%;
+    
+}
+.icon3{
+    font-size: 40px;
+    color: rgb(21, 158, 158);
+    margin-left: 9%;
+    margin-top: 14%;
+    
+}
+.icon4{
+    font-size: 40px;
+    color: rgb(21, 158, 158);
+    margin-left: 9%;
+    margin-top: 14%;
+    
+}
+.icon5{
+    font-size: 40px;
+    color: rgb(21, 158, 158);
+    margin-left: 9%;
+    margin-top: 14%;
+    
+}
+.icon6{
+    font-size: 40px;
+    color: rgb(21, 158, 158);
+    margin-left: 9%;
+    margin-top: 14%;
+    
+}
+.quotex{
+    font-size: 60px;
+    color: rgb(193, 231, 231);
+    margin-left: 12%; 
+    margin-top: 11%;
+}
+
+.quotey{
+    font-size: 60px;
+    color: rgb(193, 231, 231);
+    margin-left: 12%; 
+    margin-top: 11%;
+}
+
+.photo{
+    border: solid rgb(197, 210, 216);
+    width: 8%;
+    background-color: rgb(197, 210, 216);
+    border-radius: 50%;
+}
+
+.comment{
+    display: flex;
+    margin-top: -25%;
+    margin-left: 13%;
+}
+
     
 
 

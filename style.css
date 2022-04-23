@@ -179,7 +179,7 @@ p{
     width: 160px;
     height: 40px;
         background-color: rgb(51, 163, 163);
-        border-radius: 14%;
+        border-radius: 140px;
         border:solid rgb(51, 163, 163);
         color: white;
         font-size:20px;
@@ -437,7 +437,7 @@ button{
         width: 160px;
     height: 60px;
         background-color: rgb(51, 163, 163);
-        border-radius: 14%;
+        border-radius: 100px;
         border:solid rgb(51, 163, 163);
         color: white;
         font-size:20px;
@@ -967,6 +967,7 @@ padding-top: 5%;
     margin-left: 7%;
     margin-top: 14%;
 }
+
 
 
 
